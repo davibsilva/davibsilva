@@ -1,6 +1,6 @@
 ### Davi Vinícius
  
-:desktop_computer: Hi, I'm a Junior Full Stack Developer at [Esferas Software](https://www.esferas.com.br/)
+:desktop_computer: Hi, I'm a Junior Developer at [Esferas Software](https://www.esferas.com.br/)
   
 <hr>
  
