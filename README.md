@@ -1,6 +1,6 @@
 ### Davi Vinícius
  
-:desktop_computer: Hi, I'm a Junior Developer at [Venture Labs](https://venturelabs.group)
+:desktop_computer: Hi, I'm a back-end Developer at [Venture Labs](https://venturelabs.group)
   
 <hr>
  
